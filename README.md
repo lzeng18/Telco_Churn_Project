@@ -1,9 +1,9 @@
-## Telco_Churn_Project
+### Telco_Churn_Project
 Analyzing telecommunications churn data for possible major factors in customers' leaving.
 
-##Tools used: R, Python, Tableau
+### Tools used: R, Python, Tableau
 
-##Data source: [Kaggle churn in telecom dataset](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
+### Data source: [Kaggle churn in telecom dataset](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
 
 ![slide1](https://user-images.githubusercontent.com/18384099/38464507-d54ebdb8-3adc-11e8-9fd2-2f0d25b96d44.JPG)
 ![slide2](https://user-images.githubusercontent.com/18384099/38464494-d4b702b6-3adc-11e8-9fd4-5bff05f90c59.JPG)
