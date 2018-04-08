@@ -17,7 +17,7 @@ Data source: [Kaggle churn in telecom dataset](https://www.kaggle.com/becksddf/c
 ![slide10](https://user-images.githubusercontent.com/18384099/38464502-d5172b28-3adc-11e8-88b2-6c4734b2c55b.JPG)
 ![slide11](https://user-images.githubusercontent.com/18384099/38464503-d52c9328-3adc-11e8-9092-f2fe186225a2.JPG)
 ![slide12](https://user-images.githubusercontent.com/18384099/38464504-d538ac62-3adc-11e8-9d9b-911471c6f169.JPG)
-![slide13](https://user-images.githubusercontent.com/18384099/38464506-d541d5da-3adc-11e8-9182-9ac581f6d8db.JPG)
+
 
 
 
