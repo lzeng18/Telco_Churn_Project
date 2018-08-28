@@ -1,5 +1,5 @@
 ### Telco_Churn_Project
-Analyzing telecommunications churn data for possible major factors in customers' leaving.
+Analyzing telecommunications churn data for possible major factors in customers attrition.
 
 ### Tools used: R, Python, Tableau
 
